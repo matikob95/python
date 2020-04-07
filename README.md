@@ -53,3 +53,5 @@ SyntaxError: invalid syntax
       ^
 SyntaxError: invalid syntax
 >>> ~$ -05.04.20
+print("Your BMI is:", 77.4 / (1.80 ** 2))
+  
